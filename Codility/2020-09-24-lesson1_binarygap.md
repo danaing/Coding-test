@@ -1,7 +1,22 @@
-# 1. BinaryGap
-##### Find longest sequence of zeros in binary representation of an integer.
+---
+title:  "Codility :: Lesson1 - Iterations"
+excerpt: "BinaryGap"
+categories:
+  - Coding Test
+tags:
+  - Python
+  - Codility
+last_modified_at: 2020-09-24 T08:06:00-05:00
+---
 
-https://app.codility.com/programmers/lessons/1-iterations/
+
+BinaryGap
+-----------------------
+<https://app.codility.com/programmers/lessons/1-iterations/>
+
+문제
+-------------------------
+> Find longest sequence of zeros in binary representation of an integer.
 
 A binary gap within a positive integer N is any maximal sequence of consecutive zeros that is surrounded by ones at both ends in the binary representation of N.
 
@@ -32,25 +47,46 @@ N is an integer within the range [1..2,147,483,647].
 
 bin()   
 oct()   
-hex()   
+hex()  
 
-``` Python
-bin(2)
+
+``` python
+bin(3)
+# >> 'ob11'
 ```
+
 
 접두어를 제외하고 쓰는 방법은 아래와 같다.
 
-``` Python
+
+``` python
+# b : binary
+# o : octal
+# d : decimal(default)
+# h : hexadecimal
 format(3, 'b') #'binary'  
+# >> '11'
 ```
 
 
 
 문자열 나누기는 split 사용한다.
 
-``` Python
+``` python
 a = '10100001001'
-s = a.split('1')[1:]
+a.split('1') #1을 기준으로 나눈다
+# >> ['','0','0000','00','']
+```
+
+max는 리스트의 최대값을 반환한다.
+그러나 최대값이 없을 경우, default로 설정한 값을 반환한다.
+
+
+``` python
+max([3,4,5], default=0)
+# >> 5
+max([], default=0)
+# >> 0
 ```
 
 답
@@ -65,16 +101,14 @@ def solution(N):
 
 N =32
 solution(N)
+# >> 0
 
 N = 1041
 solution(N)
-
-import random
-N = random.randint(0,2147483647)
-solution(N)
+# >> 5
 ```
 
-결과
+테스트 결과
 --------------
 
-![](assets/20200924_lesson1_binarygap-9d11e48d.png)
+![](/assets/images/2020-09-24_lesson1_binarygap-9d11e48d.png)
