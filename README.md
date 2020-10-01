@@ -9,9 +9,9 @@ Solve the coding test on the site below and upload the solution.
 
 ## 사이트
 ### [Colidity](https://app.codility.com/programmers/lessons/)
-1. Iterations
+1. [Iterations](https://codility.com/media/train/Iterations.pdf)
     - [x] Binary Gaps
-1. Arrays
+1. [Arrays](https://codility.com/media/train/0-Arrays.pdf)
     - [x] Cyclic Rotation
     - [x] Odd Occurrences in Array
 1. [Time Complexity](https://codility.com/media/train/1-TimeComplexity.pdf)
