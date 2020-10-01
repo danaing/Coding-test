@@ -1,6 +1,6 @@
 ---
-title:  "Codility :: Lesson2-1-Arrays : CyclicRotation"
-excerpt: "CyclicRotation"
+title:  "Codility :: Lesson2-1. Arrays : Cyclic Rotation"
+excerpt: "Cyclic Rotation"
 categories:
   - Coding Test
 tags:
@@ -62,10 +62,10 @@ In your solution, focus on correctness. The performance of your solution will no
 --------------
 
 A = [1,2,3,4,5,6]
-K = 10
-일 때
 
-A의 길이는 6이기 때문에 숫자가 6번 이동하면 제자리에 온다. 따라서 10을 6로 나눈 나머지인 4만큼만 이동하는 것과 동일하다.
+K = 10
+
+일 때, A의 길이는 6이기 때문에 숫자가 6번 이동하면 제자리에 온다. 따라서 10을 6로 나눈 나머지인 4만큼만 이동하는 것과 동일하다.
 
 ``` python
 KK = K%len(A)
@@ -74,8 +74,7 @@ KK = K%len(A)
 KK로 설정하여 나머지를 이동하는 숫자로 사용한다.
 
 답의 리스트를 B라고 하자.
-B = []
-B = 345612 가 되어야하는데
+B = [3, 4, 5, 6, 1, 2] 가 되어야하는데
 A의 3,4,5,6이 B의 1,2,3,4번째에 놓이고
 A의 1,2가 B의 5,6번째 자리에 놓인다.
 
@@ -132,4 +131,4 @@ solution(A,K)
 테스트 결과
 --------------
 
-![](assets/2020-09-27-lesson2-1_CyclicRotation-ac01cf02.png)
+![](/assets/images/2020-09-27-lesson2-1_CyclicRotation-ac01cf02.png)

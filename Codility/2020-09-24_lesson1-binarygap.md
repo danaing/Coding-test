@@ -1,5 +1,5 @@
 ---
-title:  "Codility :: Lesson1 - Iterations"
+title:  "Codility :: Lesson1 : Iterations"
 excerpt: "BinaryGap"
 categories:
   - Coding Test
