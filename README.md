@@ -14,7 +14,10 @@ Solve the coding test on the site below and upload the solution.
 1. Arrays
     - [x] Cyclic Rotation
     - [x] Odd Occurrences in Array
-1. Time Complexity
+1. [Time Complexity](https://codility.com/media/train/1-TimeComplexity.pdf)
+    - [x] Frog Jump
+    - [x] Permutation Missing Element
+    - [x] TapeEquilibrium
 1. Counting Elements
 1. Prefix Sums
 1. Sorting
