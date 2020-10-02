@@ -130,14 +130,14 @@ def solution(A) :
 --------------
 
 ### Solution1의 Performance 결과
-![](assets/codility-images/2020-09-30_lesson3-2-PermMissingElem-ba3eefb8.png)
-![](assets/codility-images/2020-09-30_lesson3-2-PermMissingElem-b07c9965.png)
-![](assets/codility-images/2020-09-30_lesson3-2-PermMissingElem-98d25a3b.png)
+![](./assets/codility-images/2020-09-30_lesson3-2-PermMissingElem-ba3eefb8.png)
+![](./assets/codility-images/2020-09-30_lesson3-2-PermMissingElem-b07c9965.png)
+![](./assets/codility-images/2020-09-30_lesson3-2-PermMissingElem-98d25a3b.png)
 
 
 ### Solution2의 Performance 결과
-![](assets/codility-images/2020-09-30_lesson3-2-PermMissingElem-ba3eefb8.png)
-![](assets/codility-images/2020-09-30_lesson3-2-PermMissingElem-b07c9965.png)
-![](assets/codility-images/2020-09-30_lesson3-2-PermMissingElem-b3ce4b0f.png)
+![](./assets/codility-images/2020-09-30_lesson3-2-PermMissingElem-ba3eefb8.png)
+![](./assets/codility-images/2020-09-30_lesson3-2-PermMissingElem-b07c9965.png)
+![](./assets/codility-images/2020-09-30_lesson3-2-PermMissingElem-b3ce4b0f.png)
 
 > 비교한 결과 while문을 사용하여 break한 Solution2의 Performane가 특히 large test에서 좋은 성능을 낸다고 볼 수 있다.

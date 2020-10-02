@@ -178,4 +178,4 @@ solution(A)
 테스트 결과
 --------------
 
-![](/assets/codility-images/2020-09-28-lesson2-2-OddOccurrencesInArray-bc88b970.png)
+![](./assets/codility-images/2020-09-28-lesson2-2-OddOccurrencesInArray-bc88b970.png)

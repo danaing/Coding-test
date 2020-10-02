@@ -101,4 +101,4 @@ solution(X,Y,D)
 
 테스트 결과
 --------------
-![](assets/codility-images/2020-09-30_lesson3-1-frog-jump-ab6095d8.png)
+![](./assets/codility-images/2020-09-30_lesson3-1-frog-jump-ab6095d8.png)

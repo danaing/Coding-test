@@ -56,4 +56,4 @@ def solution(A) :
 
 테스트 결과
 --------------
-![](assets/images/2020-09-30_lesson3-3-PTapeEquilibrium-bd7e60e7.png)
+![](./assets/codility-images/2020-09-30_lesson3-3-PTapeEquilibrium-bd7e60e7.png)
