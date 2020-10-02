@@ -18,13 +18,27 @@ Solve the coding test on the site below and upload the solution.
     - [x] Frog Jump
     - [x] Permutation Missing Element
     - [x] TapeEquilibrium
-1. Counting Elements
+1. [Counting Elements](https://codility.com/media/train/2-CountingElements.pdf)
+    - [x] FrogRiverOne
+    - [x] MaxCounters
+    - [x] MissingInteger
+    - [x] PermCheck
+
 1. Prefix Sums
+
 1. Sorting
+
 1. Stacks and Queues
+
+1. Leader
+
+1. Maximum slice problem
+
+1. Prime and composite numbers
 
 ### [Programmers](https://programmers.co.kr/)
 
+1. [파이썬을 파이썬답게](https://programmers.co.kr/learn/courses/4008)
 
 
 
