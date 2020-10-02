@@ -111,4 +111,4 @@ solution(N)
 테스트 결과
 --------------
 
-![](/assets/images/2020-09-24_lesson1_binarygap-9d11e48d.png)
+![](/assets/codility-images/2020-09-24_lesson1-binarygap-9d11e48d.png)

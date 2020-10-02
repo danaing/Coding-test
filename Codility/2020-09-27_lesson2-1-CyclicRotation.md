@@ -131,4 +131,4 @@ solution(A,K)
 테스트 결과
 --------------
 
-![](/assets/images/2020-09-27-lesson2-1_CyclicRotation-ac01cf02.png)
+![](/assets/codility-images/2020-09-27-lesson2-1-CyclicRotation-ac01cf02.png)

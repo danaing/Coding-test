@@ -9,12 +9,8 @@ tags:
 last_modified_at: 2020-09-30 T08:06:00-05:00
 ---
 
-Frog Jump
------------------------
-<https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/>
-
-문제
--------------------------
+[Frog Jump](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)
+---------------------------
 > Count minimal number of jumps from position X to Y.
 
 A small frog wants to get to the other side of the road. The frog is currently located at position X and wants to get to a position greater than or equal to Y. The small frog always jumps a fixed distance, D.
@@ -46,8 +42,6 @@ X ≤ Y.
 
 풀이
 --------------
-
-<https://codility.com/media/train/1-TimeComplexity.pdf>
 
 ### 반올림
 
@@ -107,4 +101,4 @@ solution(X,Y,D)
 
 테스트 결과
 --------------
-![](assets/images/2020-09-30_lesson3-1_frog-jump-ab6095d8.png)
+![](assets/codility-images/2020-09-30_lesson3-1-frog-jump-ab6095d8.png)
