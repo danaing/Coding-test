@@ -44,4 +44,3 @@ Solve the coding test on the site below and upload the solution.
 
 ## 참고 서적
 + [생활코딩](http://www.yes24.com/Product/Goods/89837435)
-+ [Clean Code 클린 코드](http://www.yes24.com/Product/Goods/11681152)
